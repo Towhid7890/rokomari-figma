@@ -1,0 +1,11 @@
+.specialist img{
+width: 340px;
+height: 405px;
+
+}
+.div1{
+    height: 150px;
+    background: -webkit-linear-gradient(50deg, #ff491767  55%, rgba(0,0,0,0) 55%), -webkit-linear-gradient(30deg, #ffffff 40%, #ffffff 60%);
+    top: -150px;
+    position: relative;
+}

@@ -1,0 +1,36 @@
+nav{
+    background: -webkit-linear-gradient(-50deg, #FF4917  15%, rgba(0,0,0,0) 15%), -webkit-linear-gradient(30deg, #ffffff 70%, #ffffff 60%);
+}
+.logo{
+    margin-left: 60px;
+}
+nav button{
+  background-color: black;
+  border: none;
+  border-radius:20px;
+  width:160px;
+  color: white;
+  height: 40px;
+  padding:5px;
+}
+.inner-btn{
+    background-color:#FF4917;
+    width: 80px;
+    height: 50px;
+    text-decoration: none;
+    padding:5px 10px;
+    border-radius: 15px;
+    color: white;
+    overflow: hidden;
+    
+    
+    
+}
+nav a{
+    list-style: none;
+    font-weight: bold;
+    margin: 10px 0;
+}
+.link-style{
+    margin-right: 10px;
+}
